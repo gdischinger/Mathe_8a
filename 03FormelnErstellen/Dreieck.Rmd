@@ -189,10 +189,37 @@ Die beiden anderen Aussagen zeigt man genauso! Versuch's doch auch mal mit der v
 
 Hier geht es zurück zur [**Startseite**](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/FlächenberechnungErinnerung.html).
 
-### Aufgabe 3
+### Aufgabe 3{.tabset}
 In einem Dreieck beträgt der Flächeninhalt $A=20cm²$. Die Höhe $h_c$ ist doppelt so lang wie die zugehörige Grundseite $c$. Berechne $c$ und $h_c$.
 
+
 Hier geht es zurück zur [**Startseite**](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/FlächenberechnungErinnerung.html).
+
+
+#### Tipps
+Hier gibt's Tipps!
+
+#### Tipp 1
+Notiere dir, welche Informationen in der Aufgabe gegeben werden.
+
+Gegeben ist:
+
+  1. Der Flächeninhalt: $A= ?$
+  2. Ein Hinweis: Die Höhe $h_c$ ist doppelt so lang ist wie die zugehörige Grundseite $c$. Also: $h_c = ?$
+
+#### Tipp 2
+Gegeben ist:
+
+  1. Der Flächeninhalt: $A=20cm²$ und 
+  2. der Hinweis, dass die Höhe $h_c$ doppelt so lang ist wie die zugehörige Grundseite $c$, also: $h_c= 2 \cdot c$.
+  
+Setzte diese Informationen in die Formel zur Berechnung des Flächeninhaltes eines Dreiecks ein.
+
+
+#### Tipp 3
+Wenn du alle Informaitonen, die im Text stecken, in die Formel zur Berechnung des Flächeninhaltes eines Dreiecks einsetzt, erhältst du folgende Gleichung:
+$$ 20 cm² = {1 \over 2} \cdot c \cdot (2c) $$
+Löse diese Gleichung nach $c$ auf.
 
 
 <!-- <!-- ### Lösung 3 -->
