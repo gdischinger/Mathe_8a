@@ -180,87 +180,57 @@ Hier geht es zurück zur [**Startseite**](https://gdischinger.github.io/Mathe_8a
 
 
 
-### Aufgabe 3{.tabset}
+### Aufgabe 3
 Bei einem Trapez beträgt der Flächeninhalt $A=12cm²$ und die Höhe $h=1,5cm$. die zu $a$ parallele Seite $c$ ist dreimal so lang wie $a$. Berechne $a$ und $c$.
 
 Hier geht es zurück zur [**Startseite**](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/FlächenberechnungErinnerung.html).
 
-#### Tipps
-Hier gibt's Tipps!
 
+### Lösung 3
+Bei einem Trapez beträgt der Flächeninhalt $A=12cm²$ und die Höhe $h=1,5cm$. die zu $a$ parallele Seite $c$ ist dreimal so lang wie $a$. Berechne $a$ und $c$.
 
+**Gesucht**
 
-#### Tipp 1
-Notiere dir, welche Informationen in der Aufgabe gegeben werden.
+Die Längen der Seiten $a$ und $c$.
+
+**Gegeben** 
 
 Gegeben ist:
 
-  1. Der Flächeninhalt: $A=?$ ,
-  2. die Höhe $h=?$ und
-  3. der Hinweis, dass die Seite $c$ dreimal so lang ist wie die Seite $a$, also: $c=?$.
+1. Der Flächeninhalt: $A=12cm²$ ,
+2. die Höhe $h=1,5cm$ und
+2. der Hinweis, dass die Seite $c$ dreimal so lang ist wie die Seite $a$, also: $c= 3 \cdot a$.
+
+Den Flächeninhalt eines Trapezes berechnet man folgendermaßen:
+$$A = {(a+c) \cdot h \over 2}$$  
+
+**Einsetzen**
+
+Setzt man nun alle Angaben ein, erhält man folgenden Gleichung:
+$$12 cm² = {(a+3a) \cdot 1,5cm \over 2}$$ 
+
+**Auflösen**
+
+Diese Gleichung muss man jetzt nach $a$ auflösen:
+
+$$ \begin{align}
+12 cm² &= {(a+3a) \cdot 1,5cm \over 2}\\
+{}\\
+12 cm² &= {4a \cdot 1,5 cm \over 2}\\
+{}\\
+12 cm² &= {a \cdot 6cm \over 2} \\
+{}\\
+12 cm² &= a \cdot 3cm \quad\quad\quad |:3cm \\
+{}\\
+4cm &= a \\
+{}\\
+\Rightarrow a &= 4cm\\
+\Rightarrow c &= 3 \cdot a = 3 \cdot 4cm = 12 cm
+\end{align}$$
 
 
-#### Tipp 2
-Gegeben ist:
+**Antwort**
 
-  1. Der Flächeninhalt: $A=12cm²$ ,
-  2. die Höhe $h=1,5cm$ und
-  3. der Hinweis, dass die Seite $c$ dreimal so lang ist wie die Seite $a$, also: $c= 3 \cdot a$.
-  
-Setzte diese Informationen in die Formel zur Berechnung des Flächeninhaltes eines Trapezes ein.
+Die Seite a ist also 4cm lang, die Länge der Seite c beträgt 12cm.
 
-
-#### Tipp 3
-Wenn du alle Informaitonen, die im Text stecken, in die Formel zur Berechnung des Flächeninhaltes eines Trapezes einsetzt, erhältst du folgende Gleichung:
-$$12 cm² = {(a+3a) \cdot 1,5cm \over 2}$$
-Löse diese Gleichung nach $a$ auf.
-
-
-<!-- ### Lösung 3 -->
-<!-- Bei einem Trapez beträgt der Flächeninhalt $A=12cm²$ und die Höhe $h=1,5cm$. die zu $a$ parallele Seite $c$ ist dreimal so lang wie $a$. Berechne $a$ und $c$. -->
-
-<!-- **Gesucht** -->
-
-<!-- Die Längen der Seiten $a$ und $c$. -->
-
-<!-- **Gegeben**  -->
-
-<!-- Gegeben ist: -->
-
-<!-- 1. Der Flächeninhalt: $A=12cm²$ , -->
-<!-- 2. die Höhe $h=1,5cm$ und -->
-<!-- 2. der Hinweis, dass die Seite $c$ dreimal so lang ist wie die Seite $a$, also: $c= 3 \cdot a$. -->
-
-<!-- Den Flächeninhalt eines Trapezes berechnet man folgendermaßen: -->
-<!-- $$A = {(a+c) \cdot h \over 2}$$   -->
-
-<!-- **Einsetzen** -->
-
-<!-- Setzt man nun alle Angaben ein, erhält man folgenden Gleichung: -->
-<!-- $$12 cm² = {(a+3a) \cdot 1,5cm \over 2}$$  -->
-
-<!-- **Auflösen** -->
-
-<!-- Diese Gleichung muss man jetzt nach $a$ auflösen: -->
-
-<!-- $$ \begin{align} -->
-<!-- 12 cm² &= {(a+3a) \cdot 1,5cm \over 2}\\ -->
-<!-- {}\\ -->
-<!-- 12 cm² &= {4a \cdot 1,5 cm \over 2}\\ -->
-<!-- {}\\ -->
-<!-- 12 cm² &= {a \cdot 6cm \over 2} \\ -->
-<!-- {}\\ -->
-<!-- 12 cm² &= a \cdot 3cm \quad\quad\quad |:3cm \\ -->
-<!-- {}\\ -->
-<!-- 4cm &= a \\ -->
-<!-- {}\\ -->
-<!-- \Rightarrow a &= 4cm\\ -->
-<!-- \Rightarrow c &= 3 \cdot a = 3 \cdot 4cm = 12 cm -->
-<!-- \end{align}$$ -->
-
-
-<!-- **Antwort** -->
-
-<!-- Die Seite a ist also 4cm lang, die Länge der Seite c beträgt 12cm. -->
-
-<!-- Hier geht es zurück zur [**Startseite**](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/FlächenberechnungErinnerung.html). -->
+Hier geht es zurück zur [**Startseite**](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/FlächenberechnungErinnerung.html).

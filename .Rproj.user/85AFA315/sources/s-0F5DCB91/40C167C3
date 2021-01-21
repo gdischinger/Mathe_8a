@@ -1,26 +1,26 @@
 {
-    "id": "CE0FEDE8",
+    "id": "40C167C3",
     "path": "~/github/Mathe_8a/03FormelnErstellen/Dreieck.Rmd",
     "project_path": "03FormelnErstellen/Dreieck.Rmd",
     "type": "r_markdown",
-    "hash": "821375505",
+    "hash": "4165975929",
     "contents": "",
     "dirty": false,
-    "created": 1611006393573.0,
+    "created": 1611270808711.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "221,0",
-        "scrollLine": "219"
+        "cursorPosition": "234,133",
+        "scrollLine": "223"
     },
     "folds": "",
-    "lastKnownWriteTime": 1611105622,
+    "lastKnownWriteTime": 1611271172,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1611105622135,
+    "last_content_update": 1611271172911,
     "read_only": false,
     "read_only_alternatives": []
 }
