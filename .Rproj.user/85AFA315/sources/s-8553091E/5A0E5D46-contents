@@ -64,23 +64,23 @@ $(-2s-3t)² =$ `r mcq(c("-4s²-12st-9t²", answer = "4s²+12st+9t²", "-4s²+12s
 ::: {}
 
 
-### [Dreieck](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/Dreieck.html)
+### [Dreieck](https://gdischinger.github.io/Mathe_8d/03FormelnErstellen/Dreieck.html)
 
-### [Parallelogramm](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/Parallelogramm.html)
-
-:::
-
-::: {}
-
-### [Trapez](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/Trapez.html)
-
-### [Vieleck](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/Vieleck.html)
+### [Parallelogramm](https://gdischinger.github.io/Mathe_8d/03FormelnErstellen/Parallelogramm.html)
 
 :::
 
 ::: {}
 
-### [Kreis](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/Kreis.html)
+### [Trapez](https://gdischinger.github.io/Mathe_8d/03FormelnErstellen/Trapez.html)
+
+### [Vieleck](https://gdischinger.github.io/Mathe_8d/03FormelnErstellen/Vieleck.html)
+
+:::
+
+::: {}
+
+### [Kreis](https://gdischinger.github.io/Mathe_8d/03FormelnErstellen/Kreis.html)
 
 :::
 ::::::
@@ -95,13 +95,13 @@ $(-2s-3t)² =$ `r mcq(c("-4s²-12st-9t²", answer = "4s²+12st+9t²", "-4s²+12s
 
 ::: {}
 
-### [Grundlagenausdauer](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/Grundlagenausdauer.html) 
+### [Grundlagenausdauer](https://gdischinger.github.io/Mathe_8d/03FormelnErstellen/Grundlagenausdauer.html) 
 
 :::
 
 ::: {}
 
-### [Höhentraining](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/Hoehentraining.html) 
+### [Höhentraining](https://gdischinger.github.io/Mathe_8d/03FormelnErstellen/Hoehentraining.html) 
 
 :::
 ::::::
