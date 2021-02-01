@@ -1,26 +1,26 @@
 {
-    "id": "5A0E5D46",
-    "path": "~/github/Mathe_8a/03FormelnErstellen/FlächenberechnungErinnerung.Rmd",
-    "project_path": "03FormelnErstellen/FlächenberechnungErinnerung.Rmd",
+    "id": "4F5D6F72",
+    "path": "~/github/Mathe_8a/03FormelnErstellen/Kreisflaeche.Rmd",
+    "project_path": "03FormelnErstellen/Kreisflaeche.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1611710153503.0,
+    "created": 1612215559939.0,
     "source_on_save": false,
     "relative_order": 3,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "80,6",
-        "scrollLine": "83"
+        "cursorPosition": "153,0",
+        "scrollLine": "140"
     },
     "folds": "",
-    "lastKnownWriteTime": 1611710505,
+    "lastKnownWriteTime": 1612215616,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1611710505,
+    "last_content_update": 1612215616100,
     "read_only": false,
     "read_only_alternatives": []
 }

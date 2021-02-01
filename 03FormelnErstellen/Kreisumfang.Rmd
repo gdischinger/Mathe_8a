@@ -1,5 +1,5 @@
 ---
-title: "Kreis"
+title: "Kreisumfang"
 output: webex::webex_default
 ---
 
@@ -19,11 +19,9 @@ library("kableExtra")
       }
 ```
 
-## 1. Der Kreisumfang
-
 ![Das machen wir heute!](./Bilder/Umfang.jpeg)
 
-### Kreisuntersuchungen - ein Versuch
+## Kreisuntersuchungen - ein Versuch
 
 >  Du brauchst:
 >
@@ -118,14 +116,14 @@ text(x=31, y=100, labels="(D= 31 cm, U = 100 cm) \n Pflanzentopf", cex = 0.5, po
 par(mfrow=c(2,1))
 ```
 
-### Zusammenfassung unserer Ergebnisse
+## Zusammenfassung unserer Ergebnisse
 
   + Unsere Datenpunkte lassen sich gut durch eine Gerade approximieren. Der Umfang eines Kreises wächst also proportional zu seinem Durchmesser. 
   + Der von uns empirisch ermittelte Proportionalitätsfaktor ist ungefähr 3,15
   + Das haben wir gut gemacht.
 
 
-### Hätten wir keine Messfehler gemacht, dann ...
+## Hätten wir keine Messfehler gemacht, dann ...
 
 ... hätten wir natürlich den wahren Proportionalitätsfaktor erhalten: $\pi$.
 
@@ -137,16 +135,21 @@ Der Durchmesser $d$ ist ja bekanntlich doppelt so lang wie der Radius $r$.
 $\pi$ ist eine irrationale Zahl. Ganz exakt lässt sie sich also nicht fassen. Bei den meisten Rechnungen genügt es, als Näherungswert den Wert $\pi \approx 3,14$ zu verwenden. Euer Taschenrechner kennt $\pi$.
 
 
-### Aufgaben{.tabset}
+## Aufgaben{.tabset}
 
-#### {}
+### {}
 
 <br><br><br><br>
+
+Hier geht es zurück zur Übersichtsseite [**Kreis**](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/Kreis.html).
+
+
 
 Hier geht es zurück zur [**Startseite**](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/FlächenberechnungErinnerung.html).
 
 
-#### Aufgabe 1
+
+### Aufgabe 1
 Berechne die fehlenden Größen.
 ```{r, 'kable'}
 ```
@@ -270,11 +273,16 @@ $$ \begin{align} 9,1 mm &=2 \cdot r \quad\quad |: 2 \\
 
 <br><br><br>
 
+Hier geht es zurück zur Übersichtsseite [**Kreis**](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/Kreis.html).
+
+
+
 Hier geht es zurück zur [**Startseite**](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/FlächenberechnungErinnerung.html).
 
 
 
-#### Aufgabe 2
+
+### Aufgabe 2
 Walter Hudson, einer der umfangreichsten Männer der Welt, hatte einen Bauchumfang von ca. $2,80 m$. Passt er durch eine $80 cm$ breite Tür?
 
 
@@ -320,10 +328,15 @@ Leider passt Walter Hudson nicht durch die Tür.
 
 <br><br><br>
 
+Hier geht es zurück zur Übersichtsseite [**Kreis**](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/Kreis.html).
+
+
+
 Hier geht es zurück zur [**Startseite**](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/FlächenberechnungErinnerung.html).
 
 
-#### Aufgabe 3
+
+### Aufgabe 3
 ![](./Bilder/Äquator.png)
 
 a) Der Äquator hat eine Länge von etwa 40000 km. Wie groß ist der Erdradius $r$?
@@ -331,17 +344,103 @@ a) Der Äquator hat eine Länge von etwa 40000 km. Wie groß ist der Erdradius $
 b) Ein 40000 km langes Seil, das am Äquator straff um die Erde gespannt war, wird geringfügig um 1m verlängert und so gestrafft, dass der Abstand von der Erde überall gleich ist. Kannst du jetzt unter diesem Seil hindurchkriechen?
 
 
-`r hide("Lösung")`
+:::: {class="box"}
+
+::: {}
+
+`r hide("Lösung der Teilaufgabe a)")`
+**Vorüberlegung**
+
+Die Länge des Äquators entspricht dem Umfang der Erde.
+
+
+**Gegeben**
+
+Der Umfang der Erde: $40000km$
+
+Für den Umfang eines Kreises gilt:
+
+$$ U = \pi \cdot d$$.
+
+
+**Einsetzen**
+
+Setzt man den gegebenen Erdumfang ein, ergibt sich folgende Gleichung:
+$$ 40000km = \pi \cdot d $$
+
+**Auflösen**
+
+Diese Gleichung muss man nach $d$ auflösen:
+$$\begin{align} 40000km &= \pi \cdot d \quad\quad | : \pi\\
+{}\\
+{40000km \over \pi } &= d\\
+{}\\
+\Rightarrow \quad d &\approx 12732 km
+\end{align}$$
+
+
+Damit folgt für den Erdradius:
+
+$$ r = {1 \over 2} \cdot d = {1 \over 2} \cdot 12732 km \approx 6366 km$$
+
+`r unhide()`
+
+:::
+
+::: {}
+
+`r hide("Lösung der Teilaufgabe b)")`
+
+Für den Umfang eines Kreises gilt:
+
+$$U = 2 \cdot \pi \cdot r $$
+
+
+**Auflösen**
+
+Auflösen dieser Gleichung nach $r$ ergibt:
+
+$$ \begin{align} U &= 2 \cdot \pi \cdot r \quad\quad | :2 \pi \\
+{}\\
+{U \over 2 \cdot \pi} &= r
+\end{align}$$
+
+
+
+**Einsetzen**
+
+Setzt man nun die gegebenen Größen ein, ergibt sich:
+
+$$r = {4ooookm + 1m \over 2 \pi} = \underbrace{40000km \over 2\pi}_{Erdradius}+\underbrace{1m \over 2\pi}_{"Zugewinn"}$$
+
+Zum besseren Vorstellen hier noch eine Skizze:
+
+![](./Bilder/ÄquatorSeilSkizze.jpeg)
+
+Das Seil steht also ${1 \over 2\pi}m \approx 0,16 cm$ von der Erde ab. 
+
+Zumindest ich bin zu groß um darunter durch zu passen ....
+
 
 `r unhide()`
 
 
+:::
+
+::::
+
+
 <br><br><br>
+
+Hier geht es zurück zur Übersichtsseite [**Kreis**](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/Kreis.html).
+
+
 
 Hier geht es zurück zur [**Startseite**](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/FlächenberechnungErinnerung.html).
 
 
-#### Aufgabe 4
+
+### Aufgabe 4
 Die Räder eines Fahrrades haben einen Durchmesser von $71cm$. Wie viele Umdrehungen macht jedes Rad pro km?
 
 `r hide("Tipp")`
@@ -355,10 +454,24 @@ Wenn sich das Rad einmal ganz dreht, bist du um den Radumfang weitergekommen. Wi
 
 `r hide("Lösung")`
 
+Bei einem Durchmesser von $71cm$ hat das Rad einen Umfang von
+
+$$U = d \cdot \pi =  71 cm \cdot \pi \approx 223cm = 2,23m$$
+In einen Kilometer ($1000m$) passen also
+
+$${1000 m \over 2,23 m} \approx 448,43$$
+
+Radumdrehungen.
+
 `r unhide()`
 
 
 
 <br><br><br>
 
+Hier geht es zurück zur Übersichtsseite [**Kreis**](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/Kreis.html).
+
+
+
 Hier geht es zurück zur [**Startseite**](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/FlächenberechnungErinnerung.html).
+
