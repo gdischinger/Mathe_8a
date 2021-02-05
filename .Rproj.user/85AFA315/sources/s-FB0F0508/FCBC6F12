@@ -3,7 +3,7 @@
     "path": "~/github/Mathe_8a/03FormelnErstellen/Kreisflaeche.Rmd",
     "project_path": "03FormelnErstellen/Kreisflaeche.Rmd",
     "type": "r_markdown",
-    "hash": "2559344263",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1612339802346.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "216,47",
-        "scrollLine": "202"
+        "cursorPosition": "467,18",
+        "scrollLine": "461"
     },
     "folds": "",
-    "lastKnownWriteTime": 1612339944,
+    "lastKnownWriteTime": 1612487515,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1612339944392,
+    "last_content_update": 1612487515883,
     "read_only": false,
     "read_only_alternatives": []
 }
