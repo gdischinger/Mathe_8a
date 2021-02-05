@@ -3,7 +3,7 @@
     "path": "~/github/Mathe_8a/03FormelnErstellen/Kreis.Rmd",
     "project_path": "03FormelnErstellen/Kreis.Rmd",
     "type": "r_markdown",
-    "hash": "250242976",
+    "hash": "2924573834",
     "contents": "",
     "dirty": false,
     "created": 1612308558730.0,
@@ -12,16 +12,16 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "839,8",
-        "scrollLine": "831",
+        "cursorPosition": "838,0",
+        "scrollLine": "818",
         "last_setup_crc32": ""
     },
     "folds": "",
-    "lastKnownWriteTime": 1612508139,
+    "lastKnownWriteTime": 1612509926,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1612508139430,
+    "last_content_update": 1612509926383,
     "read_only": false,
     "read_only_alternatives": []
 }

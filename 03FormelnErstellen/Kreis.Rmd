@@ -791,50 +791,50 @@ b) Wie breit ist der Weg, wenn er einen Flächeninhalt von $130 m²$ hat?
 <!-- <!--   * Der Weg hat einen Flächeninhalt von $130 m²$. --> -->
 
 
-<!-- <!-- **Vorüberlegung** --> -->
+<!-- <!-- **Vorüberlegung** --> 
 
-<!-- <!-- Die Breite des Weges ergibt sich aus der Differenz der beiden Radien: $b=r_2 - r_1$.  --> -->
+<!-- <!-- Die Breite des Weges ergibt sich aus der Differenz der beiden Radien: $b=r_2 - r_1$.  --> 
 
-<!-- <!-- $r_1$ ist gegeben, $r_2$ dagegen muss noch ermittelt werden.  --> -->
+<!-- $r_1$ ist gegeben, $r_2$ dagegen muss noch ermittelt werden.  --> 
 
-<!-- <!-- Mit Hilfe des Radiuses $r_1$ des kleineren Kreises $k_1$ kann man den Flächeninhalt des kleineren Kreises berechnen: $A_1 = \pi \cdot r^2_1$. Addiert man zu dieser Fläche die Fläche des Weges $A_{Weg}$, ergibt sich der Flächeninhalt des größeren Kreises, also $A_2= A_1+ A_{Weg}$.  --> -->
+ <!-- Mit Hilfe des Radiuses $r_1$ des kleineren Kreises $k_1$ kann man den Flächeninhalt des kleineren Kreises berechnen: $A_1 = \pi \cdot r^2_1$. Addiert man zu dieser Fläche die Fläche des Weges $A_{Weg}$, ergibt sich der Flächeninhalt des größeren Kreises, also $A_2= A_1+ A_{Weg}$.  -->
+ 
+<!-- Hat man den Flächeninhalt des größeren Kreises, lässt sich der Radius $r_2$ des größeren Kreises bestimmen. --> 
 
-<!-- <!-- Hat man den Flächeninhalt des größeren Kreises, lässt sich der Radius $r_2$ des größeren Kreises bestimmen. --> -->
-
-<!-- <!-- Für den Radius eines Kreises mit Flächeninhalt $A$ gilt: $r = \sqrt{A \over \pi}$. --> -->
-
-
-<!-- <!-- **Aufstellen der Formel zur Berechnung der Breite des Weges** --> -->
-<!-- <!-- $$ \begin{align} b &= r_2 - r_1 = \\ --> -->
-<!-- <!-- {}\\ --> -->
-<!-- <!--                          &= \sqrt{A_2 \over \pi} - r_1=\\ --> -->
-<!-- <!-- {}\\ --> -->
-<!-- <!--                          &= \sqrt{A_1+  A_{Weg} \over \pi} - r_1= \\ --> -->
-<!-- <!--                      {}\\ --> -->
-<!-- <!--                      & = \sqrt{\pi \cdot r^2_1+  A_{Weg} \over \pi} - r_1 --> -->
-<!-- <!--                      \end{align}$$ --> -->
+<!-- Für den Radius eines Kreises mit Flächeninhalt $A$ gilt: $r = \sqrt{A \over \pi}$. -->
 
 
-<!-- <!-- **Einsetzen** --> -->
+<!-- **Aufstellen der Formel zur Berechnung der Breite des Weges** -->
+<!-- $$ \begin{align} b &= r_2 - r_1 = \\ -->
+<!-- {}\\ --> 
+<!--                          &= \sqrt{A_2 \over \pi} - r_1=\\ --> 
+<!-- {}\\ -->
+<!--                          &= \sqrt{A_1+  A_{Weg} \over \pi} - r_1= \\ -->
+<!--                      {}\\ --> 
+<!--                      & = \sqrt{\pi \cdot r^2_1+  A_{Weg} \over \pi} - r_1 -->
+<!--                      \end{align}$$ --> 
 
-<!-- <!-- $$ \begin{align} b &=\sqrt{\pi \cdot r^2_1+  A_{Weg} \over \pi} - r_1=\\ --> -->
-<!-- <!-- {}\\ --> -->
-<!-- <!--                     &=\sqrt{\pi \cdot (7m)²+  130m² \over \pi} - 7m \approx\\ --> -->
-<!-- <!--                     {}\\ --> -->
-<!-- <!--                     & \approx \sqrt{ 283,93804 m² \over \pi} - 7m \approx \\ --> -->
-<!-- <!--                     {}\\ --> -->
-<!-- <!--                     & \approx \sqrt{90,3802852 m²} - 7m \approx 2,5 m \end{align}$$ --> -->
+
+<!-- **Einsetzen** -->
+
+<!-- $$ \begin{align} b &=\sqrt{\pi \cdot r^2_1+  A_{Weg} \over \pi} - r_1=\\ -->
+<!-- {}\\ -->
+<!--                     &=\sqrt{\pi \cdot (7m)²+  130m² \over \pi} - 7m \approx\\ -->
+<!--                     {}\\ -->
+<!--                     & \approx \sqrt{ 283,93804 m² \over \pi} - 7m \approx \\ -->
+<!--                     {}\\ -->
+<!--                     & \approx \sqrt{90,3802852 m²} - 7m \approx 2,5 m \end{align}$$ -->
 
 
-<!-- <!-- **Antwort** --> -->
+<!-- **Antwort** -->
 
-<!-- <!-- Der Weg ist ca.$2,5m$ breit. --> -->
+<!-- Der Weg ist ca.$2,5m$ breit. -->
 
-<!-- `r unhide()` -->
+`r unhide()`
 
-<!-- ::: -->
+:::
 
-<!-- :::: -->
+::::
 
 
 <br><br>
