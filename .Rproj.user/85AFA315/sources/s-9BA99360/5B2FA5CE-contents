@@ -742,38 +742,38 @@ b) Wie breit ist der Weg, wenn er einen Flächeninhalt von $130 m²$ hat?
 
 `r hide("Lösung der Teilaufgabe a)")`
 
-**a)**
+<!-- **a)** -->
 
-**Gegeben**
+<!-- **Gegeben** -->
 
-  * Der kleinere Kreis $k_1$ hat den Radius $r_1 = 7m$.
-  * Die Breite $b$ des Weges beträgt $3m$. Damit hat der größere Kreis $k_2$ den Radius $r_2= 10m$.
-  
-  
-**Vorüberlegung**
-
-Zieht man den Flächeninhalt des kleineren Kreises vom Flächeninhalt des größeren Kreises ab, bleibt der Flächeninhalt des Weges übrig. Es gilt also:
-
-$$A_{Weg}=A_{k_2} - A_{k_1}$$
-
-Den Flächeninhalt eines Kreises berechnet man mit der Formel: $A=\pi \cdot r^2$
+<!--   * Der kleinere Kreis $k_1$ hat den Radius $r_1 = 7m$. -->
+<!--   * Die Breite $b$ des Weges beträgt $3m$. Damit hat der größere Kreis $k_2$ den Radius $r_2= 10m$. -->
 
 
-**Aufstellen der Formel zur Berechnung des Flächeninhaltes des Weges**
+<!-- **Vorüberlegung** -->
 
-$$\begin{align} A_{Weg} &=A_{k_2} - A_{k_1} =\\
-                        &= \pi \cdot r^2_2 - \pi \cdot r^2_1 =\\
-                        &= \pi \cdot (r^2_2 -r^2_1) \end{align}$$
+<!-- Zieht man den Flächeninhalt des kleineren Kreises vom Flächeninhalt des größeren Kreises ab, bleibt der Flächeninhalt des Weges übrig. Es gilt also: -->
 
-**Einsetzen**
+<!-- $$A_{Weg}=A_{k_2} - A_{k_1}$$ -->
 
-$$\begin{align} A_{Weg} &= \pi \cdot (r^2_2 -r^2_1) =\\
-                        &=\pi \cdot (100m² - 49m²) =\\
-                        &= \pi \cdot 51m² \approx 160,22m² \end{align}$$
+<!-- Den Flächeninhalt eines Kreises berechnet man mit der Formel: $A=\pi \cdot r^2$ -->
 
-**Antwort**
 
-Der Flächeninhalt des Weges beträgt ca. 160m².
+<!-- **Aufstellen der Formel zur Berechnung des Flächeninhaltes des Weges** -->
+
+<!-- $$\begin{align} A_{Weg} &=A_{k_2} - A_{k_1} =\\ -->
+<!--                         &= \pi \cdot r^2_2 - \pi \cdot r^2_1 =\\ -->
+<!--                         &= \pi \cdot (r^2_2 -r^2_1) \end{align}$$ -->
+
+<!-- **Einsetzen** -->
+
+<!-- $$\begin{align} A_{Weg} &= \pi \cdot (r^2_2 -r^2_1) =\\ -->
+<!--                         &=\pi \cdot (100m² - 49m²) =\\ -->
+<!--                         &= \pi \cdot 51m² \approx 160,22m² \end{align}$$ -->
+
+<!-- **Antwort** -->
+
+<!-- Der Flächeninhalt des Weges beträgt ca. 160m². -->
 
 `r unhide()`
 
@@ -783,61 +783,61 @@ Der Flächeninhalt des Weges beträgt ca. 160m².
 
 `r hide("Lösung der Teilaufgabe b)")`
 
-**b)**
+<!-- <!-- **b)** --> -->
 
-**Gegeben**
+<!-- <!-- **Gegeben** --> -->
 
-  * Der kleinere Kreis $k_1$ hat den Radius $r_1 = 7m$.
-  * Der Weg hat einen Flächeninhalt von $130 m²$.
-  
-  
-**Vorüberlegung**
-
-Die Breite des Weges ergibt sich aus der Differenz der beiden Radien: $b=r_2 - r_1$. 
-
-$r_1$ ist gegeben, $r_2$ dagegen muss noch ermittelt werden. 
-
-Mit Hilfe des Radiuses $r_1$ des kleineren Kreises $k_1$ kann man den Flächeninhalt des kleineren Kreises berechnen: $A_1 = \pi \cdot r^2_1$. Addiert man zu dieser Fläche die Fläche des Weges $A_{Weg}$, ergibt sich der Flächeninhalt des größeren Kreises, also $A_2= A_1+ A_{Weg}$. 
-
-Hat man den Flächeninhalt des größeren Kreises, lässt sich der Radius $r_2$ des größeren Kreises bestimmen.
-
-Für den Radius eines Kreises mit Flächeninhalt $A$ gilt: $r = \sqrt{A \over \pi}$.
+<!-- <!--   * Der kleinere Kreis $k_1$ hat den Radius $r_1 = 7m$. --> -->
+<!-- <!--   * Der Weg hat einen Flächeninhalt von $130 m²$. --> -->
 
 
-**Aufstellen der Formel zur Berechnung der Breite des Weges**
-$$ \begin{align} b &= r_2 - r_1 = \\
-{}\\
-                         &= \sqrt{A_2 \over \pi} - r_1=\\
-{}\\
-                         &= \sqrt{A_1+  A_{Weg} \over \pi} - r_1= \\
-                     {}\\
-                     & = \sqrt{\pi \cdot r^2_1+  A_{Weg} \over \pi} - r_1
-                     \end{align}$$
+<!-- <!-- **Vorüberlegung** --> -->
+
+<!-- <!-- Die Breite des Weges ergibt sich aus der Differenz der beiden Radien: $b=r_2 - r_1$.  --> -->
+
+<!-- <!-- $r_1$ ist gegeben, $r_2$ dagegen muss noch ermittelt werden.  --> -->
+
+<!-- <!-- Mit Hilfe des Radiuses $r_1$ des kleineren Kreises $k_1$ kann man den Flächeninhalt des kleineren Kreises berechnen: $A_1 = \pi \cdot r^2_1$. Addiert man zu dieser Fläche die Fläche des Weges $A_{Weg}$, ergibt sich der Flächeninhalt des größeren Kreises, also $A_2= A_1+ A_{Weg}$.  --> -->
+
+<!-- <!-- Hat man den Flächeninhalt des größeren Kreises, lässt sich der Radius $r_2$ des größeren Kreises bestimmen. --> -->
+
+<!-- <!-- Für den Radius eines Kreises mit Flächeninhalt $A$ gilt: $r = \sqrt{A \over \pi}$. --> -->
 
 
-**Einsetzen**
-
-$$ \begin{align} b &=\sqrt{\pi \cdot r^2_1+  A_{Weg} \over \pi} - r_1=\\
-{}\\
-                    &=\sqrt{\pi \cdot (7m)²+  130m² \over \pi} - 7m \approx\\
-                    {}\\
-                    & \approx \sqrt{ 283,93804 m² \over \pi} - 7m \approx \\
-                    {}\\
-                    & \approx \sqrt{90,3802852 m²} - 7m \approx 2,5 m \end{align}$$
-
-
-**Antwort**
-
-Der Weg ist ca.$2,5m$ breit.
-
-`r unhide()`
-
-:::
-
-::::
+<!-- <!-- **Aufstellen der Formel zur Berechnung der Breite des Weges** --> -->
+<!-- <!-- $$ \begin{align} b &= r_2 - r_1 = \\ --> -->
+<!-- <!-- {}\\ --> -->
+<!-- <!--                          &= \sqrt{A_2 \over \pi} - r_1=\\ --> -->
+<!-- <!-- {}\\ --> -->
+<!-- <!--                          &= \sqrt{A_1+  A_{Weg} \over \pi} - r_1= \\ --> -->
+<!-- <!--                      {}\\ --> -->
+<!-- <!--                      & = \sqrt{\pi \cdot r^2_1+  A_{Weg} \over \pi} - r_1 --> -->
+<!-- <!--                      \end{align}$$ --> -->
 
 
+<!-- <!-- **Einsetzen** --> -->
 
+<!-- <!-- $$ \begin{align} b &=\sqrt{\pi \cdot r^2_1+  A_{Weg} \over \pi} - r_1=\\ --> -->
+<!-- <!-- {}\\ --> -->
+<!-- <!--                     &=\sqrt{\pi \cdot (7m)²+  130m² \over \pi} - 7m \approx\\ --> -->
+<!-- <!--                     {}\\ --> -->
+<!-- <!--                     & \approx \sqrt{ 283,93804 m² \over \pi} - 7m \approx \\ --> -->
+<!-- <!--                     {}\\ --> -->
+<!-- <!--                     & \approx \sqrt{90,3802852 m²} - 7m \approx 2,5 m \end{align}$$ --> -->
+
+
+<!-- <!-- **Antwort** --> -->
+
+<!-- <!-- Der Weg ist ca.$2,5m$ breit. --> -->
+
+<!-- `r unhide()` -->
+
+<!-- ::: -->
+
+<!-- :::: -->
+
+
+<br><br>
 
 
 #### Aufgabe 5
@@ -870,19 +870,19 @@ c) Wie viel Prozent der Gesamtfläche sind Verschnitt?
 
 `r hide("Lösung der Teilaufgabe a)")`
 
-Ein Quadrat mit Seitenlänge $4m$ hat den Flächeninhalt $A_{Quadrat}=16m²$.
+<!-- Ein Quadrat mit Seitenlänge $4m$ hat den Flächeninhalt $A_{Quadrat}=16m²$. -->
 
-In diesem Fall hat der dem Quadrat einbeschriebene Kreis den Durchmesser $d=4m$ und somit den Radius $r=2m$.
+<!-- In diesem Fall hat der dem Quadrat einbeschriebene Kreis den Durchmesser $d=4m$ und somit den Radius $r=2m$. -->
 
-Damit hat der Kreis einen Flächeninhalt von $A_{Kreis}= \pi \cdot (2m)² = 4\pi\; m²$.
+<!-- Damit hat der Kreis einen Flächeninhalt von $A_{Kreis}= \pi \cdot (2m)² = 4\pi\; m²$. -->
 
-Der Verschnitt ergibt sich als Differenz der Quadratfläche und der Kreisfläche:
+<!-- Der Verschnitt ergibt sich als Differenz der Quadratfläche und der Kreisfläche: -->
 
-$$ \begin{align} Verschnitt &= A_{Quadrat} - A_{Kreis} =\\
-{}\\
-                            &= 16 \;m² - 4 \pi \;m² \\
-                            {}\\
-                            & \approx 3,43\; m^2\end{align}$$
+<!-- $$ \begin{align} Verschnitt &= A_{Quadrat} - A_{Kreis} =\\ -->
+<!-- {}\\ -->
+<!--                             &= 16 \;m² - 4 \pi \;m² \\ -->
+<!--                             {}\\ -->
+<!--                             & \approx 3,43\; m^2\end{align}$$ -->
 
 `r unhide()`
 
@@ -892,25 +892,25 @@ $$ \begin{align} Verschnitt &= A_{Quadrat} - A_{Kreis} =\\
 
 `r hide("Lösung der Teilaufgabe b)")`
 
-**Vorüberlegung**
+<!-- **Vorüberlegung** -->
 
-Der Verschnitt ergibt sich als Differenz der Quadratfläche und der Kreisfläche. Für die Quadratfläche gilt: $A_{Quadrat}=a²$. 
+<!-- Der Verschnitt ergibt sich als Differenz der Quadratfläche und der Kreisfläche. Für die Quadratfläche gilt: $A_{Quadrat}=a²$.  -->
 
-Der dem Quadrat einbeschriebene Kreis hat den Durchmesser $d=a$ und damit den Radius $r= {a \over 2}$. Für seine Fläche gilt also: $A_{Kreis} = \pi \cdot ({a \over 2})^2$
+<!-- Der dem Quadrat einbeschriebene Kreis hat den Durchmesser $d=a$ und damit den Radius $r= {a \over 2}$. Für seine Fläche gilt also: $A_{Kreis} = \pi \cdot ({a \over 2})^2$ -->
 
-**Aufstellen der Formel**
-$$ \begin{align} Verschnitt &= A_{Quadrat} - A_{Kreis} =\\
-{}\\
-                            &= a^2 - \pi \cdot ({a \over 2})^2 = \\
-                            {}\\
-                            & = a^2 - \pi \cdot {a^2 \over 4} = \\
-                            {}\\
-                            & = a^2 - {\pi \cdot a^2 \over 4} = \\
-                            {}\\
-                            & = a^2 - {\pi \over 4} \cdot a^2 =\\
-                            {}\\
-                            & = a^2 \cdot (1 - {\pi \over 4})
-\end{align}$$
+<!-- **Aufstellen der Formel** -->
+<!-- $$ \begin{align} Verschnitt &= A_{Quadrat} - A_{Kreis} =\\ -->
+<!-- {}\\ -->
+<!--                             &= a^2 - \pi \cdot ({a \over 2})^2 = \\ -->
+<!--                             {}\\ -->
+<!--                             & = a^2 - \pi \cdot {a^2 \over 4} = \\ -->
+<!--                             {}\\ -->
+<!--                             & = a^2 - {\pi \cdot a^2 \over 4} = \\ -->
+<!--                             {}\\ -->
+<!--                             & = a^2 - {\pi \over 4} \cdot a^2 =\\ -->
+<!--                             {}\\ -->
+<!--                             & = a^2 \cdot (1 - {\pi \over 4}) -->
+<!-- \end{align}$$ -->
 
 `r unhide()`
 
@@ -920,25 +920,25 @@ $$ \begin{align} Verschnitt &= A_{Quadrat} - A_{Kreis} =\\
 
 `r hide("Lösung der Teilaufgabe c)")`
 
-**Vorüberlegung**
+<!-- **Vorüberlegung** -->
 
-Gefragt ist also, welchen Anteil der Verschnitt an der Gesamtfläche hat. 
+<!-- Gefragt ist also, welchen Anteil der Verschnitt an der Gesamtfläche hat.  -->
 
 
-**Anteil des Verschnitts an der Gesamtfläche**
+<!-- **Anteil des Verschnitts an der Gesamtfläche** -->
 
-Man muss folgenden Quotienten berechnen:
+<!-- Man muss folgenden Quotienten berechnen: -->
 
-$$ \begin{align} Anteil &= {Verschnitt \over Quadratfläche} = \\
-{}\\
-&= {a^2 \cdot (1 - {\pi \over 4}) \over a^2} = \\
-{}\\
-&= 1- {\pi \over4} \approx 0,2146
-\end{align}$$
+<!-- $$ \begin{align} Anteil &= {Verschnitt \over Quadratfläche} = \\ -->
+<!-- {}\\ -->
+<!-- &= {a^2 \cdot (1 - {\pi \over 4}) \over a^2} = \\ -->
+<!-- {}\\ -->
+<!-- &= 1- {\pi \over4} \approx 0,2146 -->
+<!-- \end{align}$$ -->
 
-**Antwort**
+<!-- **Antwort** -->
 
-Etwa 21,5% der Fläche sind Verschnitt.
+<!-- Etwa 21,5% der Fläche sind Verschnitt. -->
 
 `r unhide()`
 
