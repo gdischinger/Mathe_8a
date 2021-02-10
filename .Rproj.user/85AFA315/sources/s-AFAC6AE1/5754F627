@@ -3,7 +3,7 @@
     "path": "~/github/Mathe_8a/03FormelnErstellen/FlächenberechnungErinnerung.Rmd",
     "project_path": "03FormelnErstellen/FlächenberechnungErinnerung.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "233788641",
     "contents": "",
     "dirty": false,
     "created": 1612851909073.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "24,0",
-        "scrollLine": "0"
+        "cursorPosition": "311,0",
+        "scrollLine": "289"
     },
     "folds": "",
-    "lastKnownWriteTime": 1612852040,
+    "lastKnownWriteTime": 1612941733,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1612852040723,
+    "last_content_update": 1612941733382,
     "read_only": false,
     "read_only_alternatives": []
 }

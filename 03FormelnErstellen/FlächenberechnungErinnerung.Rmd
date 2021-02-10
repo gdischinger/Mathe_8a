@@ -292,20 +292,20 @@ $a = {2\cdot A \over h}-c \quad$ und $\quad c = {2\cdot A \over h}-a$
 <hr>
 
 
-## Trainingsraum
+<!-- ## Trainingsraum -->
 
-:::::: {class="box"}
+<!-- :::::: {class="box"} -->
 
-::: {}
+<!-- ::: {} -->
 
-### [Grundlagenausdauer](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/Grundlagenausdauer.html) 
+<!-- ### [Grundlagenausdauer](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/Grundlagenausdauer.html)  -->
 
-:::
+<!-- ::: -->
 
-::: {}
+<!-- ::: {} -->
 
-### [Höhentraining](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/Hoehentraining.html) 
+<!-- ### [Höhentraining](https://gdischinger.github.io/Mathe_8a/03FormelnErstellen/Hoehentraining.html)  -->
 
-:::
-::::::
+<!-- ::: -->
+<!-- :::::: -->
 
